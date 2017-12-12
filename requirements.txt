@@ -1,0 +1,4 @@
+ez-setup==0.9
+selenium==3.8.0
+urllib3==1.22
+
