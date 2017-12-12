@@ -25,8 +25,8 @@ driver.implicitly_wait(30)
 username = driver.find_element_by_id("loginName")
 password = driver.find_element_by_id("loginPassword")
 
-username.send_keys("albertoynono@yahoo.es")
-password.send_keys("juliocesar")
+username.send_keys("")
+password.send_keys("")
 
 driver.find_element_by_id("loginBtn").click()
 for i in range(10):
