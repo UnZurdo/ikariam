@@ -30,8 +30,8 @@ password.send_keys("")
 
 driver.find_element_by_id("loginBtn").click()
 for i in range(10):
-    driver.get('view-source:https://s36-es.ikariam.gameforge.com/?view=island&islandId='+i)
+    driver.get('view-source:https://s36-es.ikariam.gameforge.com/?view=island&islandId='+str(i))
 
     info = driver.find_element_by_tag_name('body').text
-    file = open("workfile"+i,"w")
+    file = open("workfile"+str(i),"w")
     file.write(info)
