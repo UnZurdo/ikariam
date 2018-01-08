@@ -9,8 +9,9 @@ datos.py [-A|j]
 
 
 #### Actualmente la orden 19 genera un mapa reflejando el número de ciudades de datos alianzas dadas.
+![alt text](map.png "Map")
 
 ### **SUGERENCIA**: Implementar órdenes para mostrar listados de alianzas, ciudades,...
    ### y permitir así el uso sin necesidad de estar en el juego.
 
-![alt text](map.png "Map")
+
