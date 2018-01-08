@@ -3,9 +3,9 @@
 ## Ban Elver Galarga pls, for unauthorized acces to the game's metadata
 
 ##### datos.py [-A|j]
-#####  -A ejecuta todo el código.
-#####  -j ejecuta únicamente la generación del dataframe (que guarda localmente como dataframe.csv).
-#####  Sin argumentos ejecuta exclusivamente la parte interactiva del programa.
+  ##### - -A ejecuta todo el código.
+  ##### - -j ejecuta únicamente la generación del dataframe (que guarda localmente como dataframe.csv).
+  ##### - Sin argumentos ejecuta exclusivamente la parte interactiva del programa.
 
 
 #### Actualmente la orden 19 genera un mapa reflejando el número de ciudades de datos alianzas dadas.
