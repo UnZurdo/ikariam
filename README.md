@@ -2,7 +2,7 @@
 
 ## Ban Elver Galarga pls, for unauthorized acces to the game's metadata
 
-datos.py [-A|j]
+datos.py [-A | j]
   * -A ejecuta todo el código.
 * -j ejecuta únicamente la generación del dataframe (que guarda localmente como dataframe.csv).
 * Sin argumentos ejecuta exclusivamente la parte interactiva del programa.
