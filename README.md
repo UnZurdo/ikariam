@@ -1,7 +1,5 @@
 # ikariam
 
-## Ban Elver Galarga pls, for unauthorized acces to the game's metadata
-
 #### Install and run
 pip install requirements.txt
 python <name>
