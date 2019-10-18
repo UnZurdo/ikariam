@@ -1,6 +1,6 @@
 ez-setup==0.9
 selenium==3.8.0
-urllib3==1.22
+urllib3==1.24.2
 matplotlib==2.1.0
 numpy==1.13.3
 pandas==0.20.3
